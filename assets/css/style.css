@@ -128,7 +128,7 @@ html {
     background-image: url(../image/337868899_3503590739962799_4429581275773114255_n.jpg);
   }
   to {
-    background-image: url(../image/wordpress-expert2.jpg);
+    background-image: url(../image/337868899_3503590739962799_4429581275773114255_n.jpg);
   }
 }
 
@@ -363,7 +363,7 @@ html {
 .container-6 {
   width: 100%;
   background-color: var(--dark-color);
-  height: 13rem;
+  height: 10rem;
   display: flex;
   justify-content: space-around;
 }
